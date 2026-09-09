@@ -1,6 +1,6 @@
 > **Trainee Name:** Fardus Qutaym  
 > **Course Track:** Advanced Machine Learning Methods  
-> **Academy:** SDAIA Academy  
+> **Official SDAIA Academy GitHub:** [SDAIA Academy](https://github.com/SDAIAAcademy)  
 
 ---
 
