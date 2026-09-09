@@ -1,3 +1,9 @@
+> **Trainee Name:** Fardus Qutaym  
+> **Course Track:** Advanced Machine Learning Methods  
+> **Academy:** SDAIA Academy  
+
+---
+
 # Cross-Country Corporate Bankruptcy Prediction Project
 
 An applied machine learning project to predict corporate bankruptcy using tabular data, built as part of the SDAIA Academy course requirements.
